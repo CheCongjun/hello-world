@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everyone!
+I am Ben Che, I like making friends.
+I also like pragramming and learning code.
